@@ -21,7 +21,7 @@
     <symbol id="icon-linkedin" viewBox="0 0 32 32">
       <path fill="#f4f4fd" d="M32 32V20c0-5-1-10-8-10-3 0-5 2-6 4v-3h-7v21h7V21c0-2 0-5 4-5 3 0 3 3 3 6v10h7zM1 11h6v21H1V11zM4 0C2 0 0 2 0 4s2 4 4 4 4-2 4-4-2-4-4-4z" style="fill:var(--color1, #f4f4fd)"/>
     </symbol>
-    < id="icon-facebook" viewBox="0 0 32 32">
+    <symbol id="icon-facebook" viewBox="0 0 32 32">
     <path fill="#f4f4fd" d="M21 5h3V0h-4c-4 0-7 3-7 8v4H8v6h5v14h6V18h4l1-6h-5V8c0-2 0-3 2-3z" style="fill:var(--color1, #f4f4fd)"/>
     </symbol>
     <symbol id="icon-twitter" viewBox="0 0 32 32">
